@@ -1,7 +1,11 @@
 # Aws-Cleaner
-Clean AWS Older than X AMI'S, Snapshots and unused Volumes
+Clean AWS Older than X AMI'S, Snapshots and unused Volumes.
+
+<h2>Necessary Configuration</h2>
+
 It's necessary to have ~/.aws/credentials on correct format, with all parameters:
 
+<h3>Credentials example</h3>
 [default]
 aws_access_key_id = {KEY ID}
 aws_secret_access_key = {SECRET ACCESS KEY}
