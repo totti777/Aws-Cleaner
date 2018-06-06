@@ -14,7 +14,7 @@ aws_secret_access_key = {SECRET ACCESS KEY}
 region=eu-west-1
 output=text
 
-Avaliable Regions
+<h2>Avaliable Regions</h2>
 
 <table id="w191aab5c21c11b9">
 <tbody>
