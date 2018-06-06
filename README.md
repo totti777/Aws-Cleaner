@@ -6,17 +6,8 @@ Clean AWS Older than X AMI'S, Snapshots and unused Volumes.
 It's necessary to have ~/.aws/credentials on correct format, with all parameters:
 
 <h3>Credentials example</h3>
-[default]
-aws_access_key_id = {KEY ID}
-aws_secret_access_key = {SECRET ACCESS KEY}
-region=us-east-1
-output=text
-
-[another_profile]
-aws_access_key_id = {KEY ID}
-aws_secret_access_key = {SECRET ACCESS KEY}
-region=eu-west-1
-output=text
+<p>[default]<br />aws_access_key_id = {KEY ID}<br />aws_secret_access_key = {SECRET ACCESS KEY}<br />region=us-east-1<br />output=text</p>
+<p>[another_profile]<br />aws_access_key_id = {KEY ID}<br />aws_secret_access_key = {SECRET ACCESS KEY}<br />region=eu-west-1<br />output=text</p>
 
 <h2>Avaliable Regions</h2>
 
